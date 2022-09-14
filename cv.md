@@ -8,7 +8,7 @@
 
 
 ## About me
-I completed courses in front-end developer at the Melarossa IT school. I also heard about RS School there. I want to get more knowledge and experience for further employment.
+I finished courses in front-end developer at the Melarossa IT school. I also heard about RS School there. I want to get more knowledge and experience for further employment.
 
 
 ## Skills
